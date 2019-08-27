@@ -1,2 +1,2 @@
-# bootcamp
-Data Project Python code 
+# KAUST
+KAUST internship project 
